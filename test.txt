@@ -1,0 +1,9 @@
+test file
+
+
+Kind of sucked. 
+- git config --list and realize you have the wrong git account
+- git config --global credential.helper manager-core <-- next time you push, you need user/pass
+- username: ribo916
+- password: my token (should expire in a few days so who cares about saving it here) 
+token = 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
