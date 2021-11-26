@@ -5,3 +5,5 @@ Kind of sucked getting this repo pushed. Too many github accounts on various mac
 - git config --global credential.helper manager-core <-- next time you push, you need user/pass
 - username: ribo916
 - password: my access_token from github
+
+-- from macbook pro2
