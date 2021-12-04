@@ -1,4 +1,5 @@
 # Node.js Launcher Code Examples
+Use node index.js to start our web server
 
 ### GitHub repo: [code-examples-node](./README.md)
 
